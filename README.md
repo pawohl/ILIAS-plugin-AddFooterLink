@@ -30,7 +30,7 @@ Start at your ILIAS root directory
 ```bash
 mkdir -p Customizing/global/plugins/Services/UIComponent/UserInterfaceHook/
 cd Customizing/global/plugins/Services/UIComponent/UserInterfaceHook/
-git clone https://github.com/pawohl/ILIAS-plugin-AddFooterLink.git
+git clone https://github.com/pawohl/ILIAS-plugin-AddFooterLink.git AddFooterLink
 ```
 
 As ILIAS administrator go to `Administration → Plugins` and install/activate the plugin.
