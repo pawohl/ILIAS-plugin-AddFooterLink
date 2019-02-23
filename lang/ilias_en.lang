@@ -1,43 +1,16 @@
-msg_title#:#Title
-msg_type#:#Type
-msg_type_during_event#:#Type during Event
-msg_type_1#:#Info
-msg_type_2#:#Warning
-msg_type_3#:#Important
-msg_event_start#:#Event start
-msg_event_end#:#Event end
-msg_display_start#:#Display start
-msg_display_end#:#Display end
-msg_permanent#:#Display
-msg_permanent_no#:#Show temporary
-msg_permanent_yes#:#Show permanent
-msg_prevent_login#:#Prevent Login
-msg_additional_classes#:#Additional CSS-Classes
-msg_allowed_users#:#Allowed User-IDs (comma-separated)
-msg_table_title#:#Messages
-msg_body#:#Body
-msg_event_date#:#Event date
-msg_display_date#:#Duration display
-msg_form_button_save#:#Save
-msg_form_button_update#:#Update
-msg_form_button_cancel#:#Cancel
-msg_form_button_delete#:#Delete
-msg_form_title#:#Compose message
-msg_success#:#Success
-msg_dismissable#:#Dismissable
-msg_limit_to_roles#:#Limit to Roles
-msg_limited_to_role_ids#:#Roles
-msg_reset_dismiss#:#Reset for all users
-msg_position#:#Position
-msg_position_1#:#Position 1
-msg_position_3#:#Position 2
-msg_position_2#:#Position 3
-msg_position_4#:#Position 4
-msg_interruptive#:#Interruptive
-msg_interruptive_info#:#Message is displayed on the whole screen so get more attention. Should be dismissable.
-msg_prevent_login_info#:#Users except of the IDs (comma-separated) will be able to login-to the system.
-msg_limit_to_roles_info#:#Only the selected roles will see the message
-msg_dismissable_info#:#Message can be closed by any user. He won't see this message again
-msg_form_button_updateAndStay#:#Save and Stay
+<!-- language file start -->
+link_table_title#:#Links
+link_lang#:#Language
+link_id#:#ID
+link_text#:#Link text
+link_target#:#Target URL
 common_actions#:#Actions
-common_add_msg#:#Add message
+common_add_link#:#Add link
+link_success#:#Saved successfully
+link_form_title#:#Add new link to the footer
+link_form_button_cancel#:#Cancel
+link_form_button_delete#:#Delete
+link_form_button_save#:#Save
+link_form_button_update#:#Save
+link_form_button_updateAndStay#:#Save and Stay
+
